@@ -1,2 +1,2 @@
-# resumewebsite
-Repo to contain my ongoing work on my website that will function as an easy and portable resume
+# My Resume Website  
+- Built using Vite + Vue3 + Typescript + Tailwindcss (Daisy UI)
